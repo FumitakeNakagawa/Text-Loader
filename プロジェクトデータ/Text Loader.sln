@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextLoader", "TextLoader\TextLoader.vcxproj", "{3FF6E10D-45C8-423D-AEE5-15F21812254C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DLL_Debug|x64 = DLL_Debug|x64
+		DLL_Debug|x86 = DLL_Debug|x86
+		DLL_Release|x64 = DLL_Release|x64
+		DLL_Release|x86 = DLL_Release|x86
+		exe_Debug|x64 = exe_Debug|x64
+		exe_Debug|x86 = exe_Debug|x86
+		exe_Release|x64 = exe_Release|x64
+		exe_Release|x86 = exe_Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Debug|x64.ActiveCfg = DLL_Debug|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Debug|x64.Build.0 = DLL_Debug|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Debug|x86.ActiveCfg = DLL_Debug|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Debug|x86.Build.0 = DLL_Debug|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Release|x64.ActiveCfg = DLL_Release|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Release|x64.Build.0 = DLL_Release|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Release|x86.ActiveCfg = DLL_Release|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.DLL_Release|x86.Build.0 = DLL_Release|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Debug|x64.ActiveCfg = exe_Debug|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Debug|x64.Build.0 = exe_Debug|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Debug|x86.ActiveCfg = exe_Debug|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Debug|x86.Build.0 = exe_Debug|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Release|x64.ActiveCfg = exe_Release|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Release|x64.Build.0 = exe_Release|x64
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Release|x86.ActiveCfg = exe_Release|Win32
+		{3FF6E10D-45C8-423D-AEE5-15F21812254C}.exe_Release|x86.Build.0 = exe_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C2FBFF-6981-4292-8236-D9833D1A2975}
+	EndGlobalSection
+EndGlobal
